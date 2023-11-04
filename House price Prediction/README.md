@@ -1,1 +1,1 @@
-House price Prediction for kaggle
+House price Prediction for kaggle competition.
