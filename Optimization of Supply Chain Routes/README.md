@@ -1,0 +1,1 @@
+This Project aims to develop a machine learning model and a deep learning model that optimizes supply chain routes for transporting goods and products efficiently, reducing transportation costs, and improving delivery times.
